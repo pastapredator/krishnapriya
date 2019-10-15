@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A space where I discuss ideas, thoughts and maybe spill a little about myself </p>
+	<p> A collection of musings on technology, design and maybe a few adventures in between. </p>
 	
 </div>
