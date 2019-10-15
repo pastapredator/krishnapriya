@@ -1,16 +1,16 @@
 # Site settings
-title: Pudhina
+title: Krishnapriya PS
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  A naive attempt to create a personal web page and blog, focusing on technology and design. 
 
 baseurl: "/krishnapriya" # the subpath of your site, e.g. /blog/
 url: "https://pastapredator.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Krishnapriya
+  github: https://github.com/pastapredator
+  linkedin: https://linkedin.com/in/krishnapriyaps/
+  email: kpotagan@uwaterloo.ca
 
 
 # Syntax highlighting
