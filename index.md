@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: I like to make ideas happen
+title: Hello,
+subtitle: I like to make ideas happen...
 sitemap:
   priority: 0.9
 ---
