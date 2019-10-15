@@ -1,7 +1,7 @@
 # Site settings
 title: Krishnapriya PS
 description: >
-  A naive attempt to create a personal web page and blog, focusing on technology and design. 
+   blog focusing on Canada, startups, technology and design, personal anecdotes and humor. 
 
 baseurl: "/krishnapriya" # the subpath of your site, e.g. /blog/
 url: "https://pastapredator.github.io" # the base hostname & protocol for your site
