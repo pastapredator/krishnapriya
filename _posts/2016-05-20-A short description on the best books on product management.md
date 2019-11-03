@@ -9,7 +9,7 @@ published: true
 ---
 
 ## (1) Building Products for the Enterprise - Blair Reeves and Benjamin Gaines
-![pm.jpg]({{site.baseurl}}/_posts/pm.jpg)
+![pm.jpg]({{site.baseurl}}/assets/img/pm.jpg)
 
  
 A unique book that starts off on a strong note, defining the expected role of a product manager and describing precisely (how + why)building products for an enterprise is fundamentally different from building directly with the consumer in mind.One key takeaway for me was understanding how in my previous roles I had often spent hours obsessing over UI elements, color, layout ..etc When the user may not even be our paying consumer in this case ! This insight is developed further in the preceding chapters developing a clear distinction between the customer and the user ' Gently the readers are lead to concepts of product roadmaps, vision, metrics and each section concludes with a short, insightful interview on an existing product manager from an enterprise. 
