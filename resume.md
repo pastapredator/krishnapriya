@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Résumé '
-subtitle: An awesome person
+subtitle: A short tale of my career atrocities.
 published: true
 ---
 
