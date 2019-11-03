@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Select ramblings of Krishnapriya
+subtitle: Select ramblings on Books, Tech & Food.
 ---
 
 <div>
