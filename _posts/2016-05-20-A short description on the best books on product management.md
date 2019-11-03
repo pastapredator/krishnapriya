@@ -8,12 +8,12 @@ categories:
 published: true
 ---
 
-## Building Products for the Enterprise - Blair Reeves and Benjamin Gaines
-![Book cover]({{site.baseurl}}/_posts/pm.jpg)
+## (1) Building Products for the Enterprise - Blair Reeves and Benjamin Gaines
+![]({{site.baseurl}}/https://images-na.ssl-images-amazon.com/images/I/519wXy0i1HL._SX331_BO1,204,203,200_.jpg)
  
 A unique book that starts off on a strong note, defining the expected role of a product manager and describing precisely (how + why)building products for an enterprise is fundamentally different from building directly with the consumer in mind.One key takeaway for me was understanding how in my previous roles I had often spent hours obsessing over UI elements, color, layout ..etc When the user may not even be our paying consumer in this case ! This insight is developed further in the preceding chapters developing a clear distinction between the customer and the user ' Gently the readers are lead to concepts of product roadmaps, vision, metrics and each section concludes with a short, insightful interview on an existing product manager from an enterprise. 
 
-So, how does one drive the team as  a PM ? The authors posit having sound grasp of three kinds of knowledge - Organization, Product and Industry - it is surprising to note, that business knowledge was not mentioned as a requirement. 
+So, how does one drive the team as a PM ? The authors posit having sound grasp of three kinds of knowledge - Organization, Product and Industry - it is surprising to note, that business knowledge was not mentioned as a requirement. 
 
 There is a brief the _’Do's and Don’t ‘_ list of communication and team strategies, a few that stick are _‘ Don’t blame an internal team ‘ _
 _‘ Be honest and forthright about your product limitations ‘ _ Solid advice. The chapter manages to drill into our minds that the product managers ‘ focus on customer problems ‘ rather than implementing solutions. 
@@ -25,6 +25,5 @@ Personally as a fledgling aspirant, this honest line made a mark
 
 > Product management should not be a first gig in the software industry—this is a highly cross-functional role, which benefits greatly from using prior domain experience.
 
-Ah, well it remains to be seen then. What the future holds …
 
-I  (8/10 ) rate this book, for it fundamentally assumes we are in a respectable understanding of our knowledge base and proceeds to dish out practical, high level advice in short nuggets.
+I rate this book (8/10 ) , as it fundamentally assumes we are in a respectable understanding of our knowledge base and proceeds to dish out practical, high level advice in short nuggets.
