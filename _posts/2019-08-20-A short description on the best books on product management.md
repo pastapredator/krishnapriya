@@ -2,7 +2,6 @@
 layout: page
 title: Quick summaries on classic books about Product Management
 subtitle: Books that saved me hours of frustration...
-date: '2019-08-20 21:21:21 +0530'
 categories:
   - general
 published: true
