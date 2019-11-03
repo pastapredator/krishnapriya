@@ -12,7 +12,7 @@ published: true
 ``` Always looking to connect with driven startups over a cuppa. Startups. Design. Product Development & Pasta ... ```  
 
 ### PROJECTS
-**Wyngit** <span style="float: right; ">One year</span>  
+**Wyngit** <span style="float: right; ">2018 - 2019</span>  
 A real-time micro social network was developed to have remote config UI, Multi-Language support. 
 
 **Tatasthu Works**<span style="float: right; ">2016-Present</span>  
