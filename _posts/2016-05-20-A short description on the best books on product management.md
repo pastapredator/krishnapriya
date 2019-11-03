@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quick overviews of classic books on Product Management
+title: Insights from classic books on Product Management
 subtitle: Books that saved me hours of frustration...
 date: '2016-05-20 21:21:21 +0530'
 categories:
