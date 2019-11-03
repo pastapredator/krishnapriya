@@ -23,7 +23,7 @@ A novel web platform for the selection of submersible pumps.I co-conceived algor
 
 ### Work 
 
- **Stealth-mode startup** <span style="float: right; ">One year</span>  
+ **Stealth-mode startup** <span style="float: right; ">2019 - Ongoing</span>  
 Co-Founder & Product manager -  Ag-tech, soil and animal care (in +ve revenue) startup. 
 Please contact in person for more info. 
 
@@ -39,11 +39,11 @@ Worked on a novel web platform for the selection of submersible pumps. Produced 
 
 ### EDUCATION
 
-University of Waterloo <span style="float: right; ">2019-2020</span>  
+<strong>University of Waterloo</strong><span style="float: right; ">2019-2020</span>  
 **Course**  
 Master of Business Entrepreneruship and Technology, A graduate master's degree in entrepreneurial business education. 
 
-RV University <span style="float: right; ">2012-2016</span>  
+<strong>RV University</strong> <span style="float: right; ">2012-2016</span>  
 **Course**  
 Bachelor of Chemical Engineering, with a focus on Product development & Process Integration.  
  
