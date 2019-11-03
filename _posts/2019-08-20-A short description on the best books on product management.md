@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brief introductions & opinions on books about Product Management
+title: Short summaries on books about Product Management
 subtitle: A minimal Jekyll theme
 date: '2016-05-20 21:21:21 +0530'
 categories:
