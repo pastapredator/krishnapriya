@@ -1,60 +1,56 @@
 ---
 layout: page
-title: Résumé
+title: 'Résumé '
 subtitle: An awesome person
+published: true
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download resume as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### About
+``` Always looking to connect with driven startups over a cuppa. Startups. Design. Product Development & Pasta ... ```  
 
 ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Wyngit** - Description - Bangalore <span style="float: right; ">One year</span>  
+A real-time micro social network was developed to have remote config UI, Multi-Language support. 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Tatasthu Works** - Description - Pavagada<span style="float: right; ">2016-Present</span>  
+An innovative think tank. We initially functioned as a platform to bridge the gap between tech-blind rural clients and software service professionals lacking business/domain knowledge. Tatasthuworks now has morphed into a consultancy firm handling assignments on robust grass-root level design, content strategy and is also venturing into incubation for upcoming ventures. 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Pump Pandit** - Description - Bangalore <span style="float: right; ">4 months</span>  
+A novel web platform for the selection of submersible pumps.I co-conceived algorithms for pump selection, to assure a minimum 30 % increase in water discharge. 
+
+### Work 
+
+Title - **Stealth-mode startup** <span style="float: right; ">One year</span>  
+Co-Founder & Product manager -  Ag-tech, soil and animal care (in +ve revenue) startup. 
+Please contact in person for more info. 
+
+Title - **Centre for Fundamental Research and Creative Education** <span style="float: right; ">Duration</span>  
+Pursued independent courseware under the guidance of mentors. Consolidated learning via practical projects and documentation. The courseware broadly covered realms of " Entrepreneurship, Psychology, NeuroScience, Personal Development, Project management, Philosophy, History, Product design ..etc " 
+
+Title - **Finomena** <span style="float: right; ">Duration</span>  
+Initially recruited as an intern, quickly took up fulltime responsibilities. The conducive company culture allowed me to remain agnostic to the job description. As an assistant product manager(APM), It was a delight to ideate and oversee the implementation of app features which, dramatically decreased onboarding time from a few days to under an hour.
+
+Title - **Indian Institute of Science** <span style="float: right; ">4 months</span>  
+Worked on a novel web platform for the selection of submersible pumps. Produced algorithms for pump selection, to assure a minimum 30 % increase in water discharge.
+
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
+University of Waterloo <span style="float: right; ">2019-2020</span>  
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Master of Business Entrepreneruship and Technology, A graduate master's degree in entrepreneurial business education. 
+
+RV University <span style="float: right; ">2012-2016</span>  
+**Course**  
+Bachelor of Chemical Engineering, with a focus on Product development & Process Integration.  
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
-
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
-
-### EXPERIENCE
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
-
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- WJ Beynon memorial Scholarship
+- Faculty of Engineering, Graduate Scholarship
+
+
