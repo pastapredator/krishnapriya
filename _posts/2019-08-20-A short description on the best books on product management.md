@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Short summaries on books about Product Management
-subtitle: A minimal Jekyll theme
-date: '2016-05-20 21:21:21 +0530'
+title: Quick summaries on classic books about Product Management
+subtitle: Books that saved me hours of frustration...
+date: '2019-08-20 21:21:21 +0530'
 categories:
   - general
 published: true
