@@ -29,5 +29,3 @@ After these painful PR chapters, we are lead to the process of ' Creating a prod
 I have gnarling hesitation before leaving a scathing review - personally I understand that the author(s) gets crushed upon receiving negative feedback. However, April makes an exception to this case - The book is the most stellar example of filling in pages and pages of vacuous materials, loosely connected examples (dubbed stories) In fact, one can even find overly positive reviews littered thru out the internet - which seem not even superficially critical of the work or the approach to the subject. 
 
 This book left me wondering, with a dozen questions - What is the domain expertise / maturity level expected of the reader ? What did the author intend this book be labelled as ? A primer ? a coffee table throw away ? Sigh. At the very least, I hope it inspires a few underconfident readers cum authors to compile their own readngs and resourcse to write them up. As there seems to be a LOT of space for mediocrity and a keen reader may just about make the cut above vacuous books such as these...
-
-
