@@ -1,5 +1,11 @@
 ---
-published: false
+layout: page
+title: A short discussion on the worst books in a Product manager's world
+subtitle: Alternative book titles are mentioned as well
+date: '2016-05-25 21:21:21 +0530'
+categories:
+  - general
+published: true
 ---
 ## A List of books to avoid for Product Managers
 
