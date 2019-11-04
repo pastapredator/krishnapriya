@@ -13,7 +13,7 @@ In my experience, its been super easy to find a recommended list of ' best-books
 
 
 (1) Obviously Awesome - April Dunford 
-![]({{site.baseurl}}/assets/img/obviawesomecover.jpg))
+![]({{site.baseurl}}/assets/img/obviawesomecover.jpg)
 
 Bear in mind that my opinions are shaped after reading numerous titles on related subject areas (Ex: [Hooked](https://www.amazon.ca/Hooked-How-Build-Habit-Forming-Products/dp/0670069329), [Sprint](https://www.amazon.ca/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=pd_sbs_14_t_2/134-6656068-1020141?_encoding=UTF8&pd_rd_i=150112174X&pd_rd_r=c803a696-5964-4d67-b5df-726e589d7101&pd_rd_w=qX6vx&pd_rd_wg=Pm4c3&pf_rd_p=9926bb69-42b9-46e4-b788-f665992e326d&pf_rd_r=0FSM3AVMN755R4785H51&psc=1&refRID=0FSM3AVMN755R4785H51) , [Inspired](https://www.amazon.ca/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/ref=pd_sim_14_4/134-6656068-1020141?_encoding=UTF8&pd_rd_i=1119387507&pd_rd_r=d171cf2f-15a2-49fb-a2e1-c989634b9e67&pd_rd_w=Bc51t&pd_rd_wg=TzGXH&pf_rd_p=ca0a769f-467a-4dd2-b2dc-9f16d6aac0a1&pf_rd_r=0FSM3AVMN755R4785H51&psc=1&refRID=0FSM3AVMN755R4785H51)) It could have considerably colored expectations/ standards. 
 
